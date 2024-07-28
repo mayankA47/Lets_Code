@@ -2,8 +2,10 @@ class Solution {
 public:
     int findShortestCycle(int n, vector<vector<int>>& edges) {
         /*
-            With generic DFS/BFS, can determine cycle nut not shortest cycle with O(V+E) complexity,
+            With generic DFS/BFS, can determine cycle but not shortest cycle with O(V+E) complexity,
             can do it with O(V*(V+E)).
+
+            Problem with linear BFS/DFS
             Example - n = 8, edges = [[0,1],[1,2],[2,3],[3,4],[4,5],[0,7],[0,6],[5,7],[5,6]]; 
             answer for above case is 4 (and not 7)
         */
