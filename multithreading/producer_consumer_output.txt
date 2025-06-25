@@ -1,0 +1,185 @@
+// Output can vary based on machine !
+
+Acquired lock by producer 1
+Producer 1 added task 1
+Releasing lock 
+Acquired lock by producer 1
+Producer 1 added task 2
+Releasing lock 
+Acquired lock by producer 1
+Producer 1 added task 3
+Releasing lock 
+Acquired lock by producer 1
+Producer 1 added task 4
+Releasing lock 
+Acquired lock by producer 1
+Producer 1 added task 5
+Releasing lock 
+Acquired lock by producer 1
+Producer 1 added task 6
+Releasing lock 
+Acquired lock by producer 1
+Producer 1 added task 7
+Releasing lock 
+Acquired lock by producer 1
+Producer 1 added task 8
+Releasing lock 
+Acquired lock by producer 1
+Producer 1 added task 9
+Releasing lock 
+Acquired lock by producer 1
+Producer 1 added task 10
+Releasing lock 
+Acquired lock by producer 1
+Acquired lock by producer 2
+Acquired lock by consumer 1
+Consumer 1 consuming task 1
+Releasing lock 
+Acquired lock by consumer 1
+Consumer 1 consuming task 2
+Releasing lock 
+Acquired lock by consumer 1
+Consumer 1 consuming task 3
+Releasing lock 
+Acquired lock by consumer 1
+Consumer 1 consuming task 4
+Releasing lock 
+Producer 1 added task 11
+Releasing lock 
+Acquired lock by producer 1
+Producer 1 added task 12
+Releasing lock 
+Acquired lock by producer 1
+Producer 1 added task 13
+Releasing lock 
+Acquired lock by producer 1
+Producer 1 added task 14
+Releasing lock 
+Acquired lock by producer 1
+Acquired lock by consumer 1
+Consumer 1 consuming task 5
+Releasing lock 
+Acquired lock by consumer 1
+Consumer 1 consuming task 6
+Releasing lock 
+Producer 1 added task 15
+Releasing lock 
+Acquired lock by consumer 2
+Consumer 2 consuming task 7
+Releasing lock 
+Acquired lock by consumer 2
+Consumer 2 consuming task 8
+Releasing lock 
+Acquired lock by consumer 2
+Consumer 2 consuming task 9
+Releasing lock 
+Acquired lock by consumer 2
+Consumer 2 consuming task 10
+Releasing lock 
+Acquired lock by consumer 2
+Consumer 2 consuming task 11
+Releasing lock 
+Acquired lock by consumer 2
+Consumer 2 consuming task 12
+Releasing lock 
+Acquired lock by consumer 2
+Consumer 2 consuming task 13
+Releasing lock 
+Producer 2 added task 16
+Releasing lock 
+Acquired lock by consumer 1
+Consumer 1 consuming task 14
+Releasing lock 
+Acquired lock by consumer 2
+Consumer 2 consuming task 15
+Releasing lock 
+Acquired lock by consumer 2
+Consumer 2 consuming task 16
+Releasing lock 
+Acquired lock by consumer 2
+Acquired lock by consumer 1
+Acquired lock by producer 2
+Producer 2 added task 17
+Releasing lock 
+Acquired lock by producer 2
+Producer 2 added task 18
+Releasing lock 
+Acquired lock by producer 2
+Producer 2 added task 19
+Releasing lock 
+Acquired lock by producer 2
+Producer 2 added task 20
+Releasing lock 
+Acquired lock by producer 2
+Producer 2 added task 21
+Releasing lock 
+Acquired lock by producer 2
+Producer 2 added task 22
+Releasing lock 
+Acquired lock by producer 2
+Producer 2 added task 23
+Releasing lock 
+Acquired lock by producer 2
+Producer 2 added task 24
+Releasing lock 
+Acquired lock by producer 2
+Producer 2 added task 25
+Releasing lock 
+Acquired lock by producer 2
+Producer 2 added task 26
+Releasing lock 
+Acquired lock by producer 2
+Consumer 2 consuming task 17
+Releasing lock 
+Acquired lock by consumer 2
+Consumer 2 consuming task 18
+Releasing lock 
+Acquired lock by consumer 2
+Consumer 2 consuming task 19
+Releasing lock 
+Acquired lock by consumer 2
+Consumer 2 consuming task 20
+Releasing lock 
+Acquired lock by consumer 2
+Consumer 2 consuming task 21
+Releasing lock 
+Acquired lock by consumer 2
+Consumer 2 consuming task 22
+Releasing lock 
+Consumer 1 consuming task 23
+Releasing lock 
+Acquired lock by consumer 1
+Consumer 1 consuming task 24
+Releasing lock 
+Acquired lock by consumer 1
+Consumer 1 consuming task 25
+Releasing lock 
+Acquired lock by consumer 1
+Consumer 1 consuming task 26
+Releasing lock 
+Acquired lock by consumer 1
+Producer 2 added task 27
+Releasing lock 
+Acquired lock by producer 2
+Producer 2 added task 28
+Releasing lock 
+Acquired lock by producer 2
+Producer 2 added task 29
+Releasing lock 
+Acquired lock by producer 2
+Producer 2 added task 30
+Releasing lock 
+Consumer 1 consuming task 27
+Releasing lock 
+Acquired lock by consumer 1
+Consumer 1 consuming task 28
+Releasing lock 
+Acquired lock by consumer 1
+Consumer 1 consuming task 29
+Releasing lock 
+Acquired lock by consumer 1
+Consumer 1 consuming task 30
+Releasing lock 
+
+
+=== Code Execution Successful ===
